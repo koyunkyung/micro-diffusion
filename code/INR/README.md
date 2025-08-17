@@ -1,0 +1,8 @@
+## Training
+```
+sh run.sh
+```
+
+
+
+
